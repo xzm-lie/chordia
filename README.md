@@ -4,7 +4,7 @@
 
 ## 开始使用
 
-推荐 Python 3.11 或 3.12。在解压后的 `sonora` 文件夹中打开终端：
+推荐 Python 3.11 或 3.12。在解压后的 `chordia` 文件夹中打开终端：
 
 ```powershell
 python -m venv .venv
@@ -26,7 +26,7 @@ python -m streamlit run app.py
 请保留项目目录结构，不能只复制 `app.py`：
 
 ```text
-sonora/
+chordia/
   app.py                  界面、图表、交互和会话状态
   analysis.py             音频解码、特征提取、调式与和弦匹配
   reports.py              本地笔记、导出、可选 AI 请求
