@@ -1,0 +1,8 @@
+streamlit>=1.66,<2
+librosa>=0.11,<0.12
+numpy>=1.26,<3
+pandas>=2.2,<4
+plotly>=6,<7
+soundfile>=0.13,<1
+soxr>=0.5,<2
+openai>=1.68,<3
